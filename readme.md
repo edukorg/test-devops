@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Olá para você que está lendo. Este teste tecnico é para a vaga de DEVOPS da [EDUK](linkedin.com/company/edukrenda/mycompany/), ele foi estruturado para que qualquer candidato independentemente do nivel de senioridade e tempo consiga faze-lo, então caso tenha uma etapa que não consiga fazer seja por dificuldade ou até mesmo por tempo basta você nos explicar qual foi o impedimento que você teve como por exemplo:
+Olá para você que está lendo. Este teste tecnico é para a vaga de DEVOPS da [EDUK](https://www.linkedin.com/company/eduk/), ele foi estruturado para que qualquer candidato independentemente do nivel de senioridade e tempo consiga faze-lo, então caso tenha uma etapa que não consiga fazer seja por dificuldade ou até mesmo por tempo basta você nos explicar qual foi o impedimento que você teve como por exemplo:
 
 ## Desafio
 
